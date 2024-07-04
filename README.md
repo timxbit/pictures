@@ -1,1 +1,1 @@
-pictures仓库作为markdown图床用于存储学习笔记等文件中的插图。
+pictures仓库作为markdown文件的图床用于存储学习笔记等文件中的插图。
